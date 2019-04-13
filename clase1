@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+    <head>
+        <title>Perfil de fakebook</title>
+    </head>
+
+    <body>
+
+        <header>
+            <nav>
+            <a href="#">Inicio &nbsp</a>
+            <a href="#">Mi perfil &nbsp</a>
+            <a href="#">Noticias &nbsp</a>
+            <a href="#">Fotos</a>
+            <nav>
+        </header>
+
+        <h1>FAKEBOOK</h1>
+        Buscar:<input type="text" placeholder="Buscar por nombre">
+        <h2>Jesus Fernandez<br></h2>
+        <img src="goku.jpg"
+             width="400"
+             height="300"\>
+        <br\>
+        <br\>
+        <button>Anadir amigo</button>
+        <p><strong>Ciudad:</strong>Malaga</p>
+        <p><strong>Edad:</strong>32</p>
+        <p><strong>Estudios:</strong>Telecomunicaciones</p>
+        <p><strong>Aficiones:</strong>Desarollo web</p>
+        <p><strong>Amigos:</strong>108</p>
+
+    </body>
+
+</html>
