@@ -5,7 +5,7 @@
     box-shadow: 10px 10px 5px grey  ;
     margin-top: 20px;
     width: 25%;
-    margin: auto;
+    margin: auto
     }
 
 .titulo {
@@ -22,7 +22,7 @@
 
 .contenedor-nombre{
     border: 1px solid;
-    border-radius: 10px;
+    border-radius: 15px;
     display: block;
     width: 50%;
     margin: 10px auto;
@@ -31,7 +31,7 @@
 
 .logo{
     position: fixed;
-    margin-top: 2px;
+    margin: 2px 2px;
     border-radius: 10px;
     }
 
@@ -42,18 +42,35 @@
     }
 
 .verificacion{
-    margin-top: 10px;
+    margin-top: 30px;
     text-align: center;
     font-size: 15px;
     }
 
 .contrasena{
+    position: relative;
+    margin-left: 35%;
 
     }
+
 .contrasena2{
     position: relative;
-    margin-left: 125px;
-    height: 20px;
-    margin-top: 2px;
-    margin-bottom: 25px;
+    background-color: lightyellow;
+    height: 25px;
+    width: auto;
+    top:2px;
+    margin-bottom: 5px;
+    }
+
+.boton1{
+    margin-left: 25%;
+    margin-top: 20px;
+   }
+
+.boton2{
+    margin-left:5%;
+    background-color: blue;
+    height: 30px;
+    color: white;
+    margin-bottom:50px;
     }
