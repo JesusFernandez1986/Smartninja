@@ -1,38 +1,74 @@
+body{
+    margin-top:100px;
+}
 .principal{
     border: 1px solid;
-    border-radius: 8px;
-    display: block;
-    box-shadow: 10px 10px 5px grey  ;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
     margin-top: 20px;
     width: 25%;
-    margin: auto
+    margin: auto;
+    padding-bottom: 50px;
     }
 
 .titulo {
+    font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif;
+    position:relative;
     margin-top: 25px;
-    text-align: center;
-    font-size: x-large;
+    font-size: 30px;
+    left: 40%;
     }
 
+.alineado{
+    float:left;
+    }
+
+#b{
+
+    color:blue;
+}
+
+#o{
+    color: red;
+}
+
+#o0{
+    color: yellow;
+}
+
+#g{
+    color: blue;
+}
+
+#l{
+    color: green;
+}
+
+#e{
+    color: red;
+}
+
 .titulo2{
-    margin-top: 5px;
+    margin-top: 70px;
     text-align: center;
     font-size: 15px;
     }
 
 .contenedor-nombre{
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+    position:relative;
     border: 1px solid;
     border-radius: 15px;
-    display: block;
     width: 50%;
     margin: 10px auto;
     background-color: whitesmoke;
     }
 
 .logo{
-    position: fixed;
-    margin: 2px 2px;
+    position: absolute;
     border-radius: 10px;
+    top: 2px;
+    left: 2px;
     }
 
 .nombre{
@@ -45,21 +81,16 @@
     margin-top: 30px;
     text-align: center;
     font-size: 15px;
+    margin-bottom: 5px;
     }
 
 .contrasena{
     position: relative;
-    margin-left: 35%;
-
-    }
-
-.contrasena2{
-    position: relative;
     background-color: lightyellow;
-    height: 25px;
-    width: auto;
+    height: 30px;
+    width: 200px;
     top:2px;
-    margin-bottom: 5px;
+    left: 150px;
     }
 
 .boton1{
@@ -68,9 +99,26 @@
    }
 
 .boton2{
+    font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
     margin-left:5%;
-    background-color: blue;
-    height: 30px;
+    background-color: #0174DF ;
+    height: 35px;
     color: white;
     margin-bottom:50px;
+    }
+
+.pie{
+    position: relative;
+    border-radius: 2px;
+   left: 875px;
+    top: 25px;
+    }
+
+.pie2{
+     color: #757575;
+     style: none;
+    }
+
+.alineado{
+    float:left;
     }
