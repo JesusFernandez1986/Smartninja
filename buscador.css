@@ -1,0 +1,92 @@
+#principal{
+    position: absolute;
+    left: 450px;
+    top: 200px;
+    width: 800px;
+}
+
+#logo{
+    position: relative;
+    left: 180px;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 150px;
+}
+
+#buscar{
+    position: relative;
+    border-radius: 80px;
+    width: 550px;
+    left: 30px;
+    height:35px;
+    top:10px;
+}
+
+.botones{
+    position:relative;
+    top:10px;
+    height: 40px;
+    margin-right:20px;
+    color: grey;
+    background-color: #f2f2f2;
+    border-radius: 8px;
+}
+
+#botones1{
+    float: left;
+    position:relative;
+    top: 30px;
+    left: 160px;
+    }
+
+#botones2{
+    float: left;
+    position:relative;
+    top: 30px;
+    left: 190px;
+    }
+
+#pie{
+    position: absolute;
+    background: grey;
+    bottom: 0px;
+    width: 100%;
+    height: 80px;
+   background: #f2f2f2;
+}
+
+#pie2{
+    position: relative;
+    border: 0.5px solid;
+    border-color:#e4e4e4;
+    padding-left: 10px;
+    height: 40px;
+    color: rgba(0,0,0,.54);
+}
+
+#pie3{
+    float: left;
+    border-top: 0.5px solid;
+    border-color:#e4e4e4;
+    padding-left: 10px;
+    height: 40px;
+    color: rgba(0,0,0,.54);
+}
+
+#pie4{
+    float:left;
+    border-top: 0.5px solid;
+    border-color:#e4e4e4;
+    padding-left: 50px;
+    height: 40px;
+    color: rgba(0,0,0,.54);
+}
+
+#pie5{
+    float:left;
+    border-top: 0.5px solid;
+    border-color:#e4e4e4;
+    padding-left: 50px;
+    height: 40px;
+    color: rgba(0,0,0,.54);
+}
