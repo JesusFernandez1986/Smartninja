@@ -93,6 +93,10 @@
     left: 125px;
     }
 
+input[type="password"]: focus{  <!-- esto no se porque no funciona -->
+    border: 5px solid blue;
+}
+
 .boton1{
     position: relative;
     top: 25px;
@@ -119,4 +123,3 @@
      color: #757575;
      style: none;
     }
-
