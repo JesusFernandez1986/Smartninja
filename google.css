@@ -93,9 +93,9 @@
     left: 125px;
     }
 
-input[type="password"]: focus{  <!-- esto no se porque no funciona -->
+input[type="password"]: focus{
     border: 5px solid blue;
-}
+    }
 
 .boton1{
     position: relative;
@@ -112,6 +112,10 @@ input[type="password"]: focus{  <!-- esto no se porque no funciona -->
     color: white;
     }
 
+.boton2:hover{
+    cursor:pointer;
+    }
+
 .pie{
     position: relative;
     border-radius: 2px;
@@ -123,3 +127,4 @@ input[type="password"]: focus{  <!-- esto no se porque no funciona -->
      color: #757575;
      style: none;
     }
+
